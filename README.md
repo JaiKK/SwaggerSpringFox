@@ -1,9 +1,10 @@
 # SwaggerSpringFox
 
-http://springfox.github.io/springfox/
-https://github.com/springfox/springfox
-https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
-https://dzone.com/articles/spring-boot-2-restful-api-documentation-with-swagg
+* [Homepage](http://springfox.github.io/springfox/)
+* [github page](https://github.com/springfox/springfox)
+* [Tutorial page1](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
+* [Tutorial page2](https://dzone.com/articles/spring-boot-2-restful-api-documentation-with-swagg)
+* [Video Tutorial](https://www.youtube.com/watch?v=HHyjWc0ASl8)
 
 
 To enable swagger documentation we need 2 main dependencies one swagger core and another viewing it in browser.
